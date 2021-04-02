@@ -40,7 +40,7 @@ _Guidelines for usage & application demo._
 
 There are no usage guidelines for this application. Please see the gif below for a brief overview of the app.
 
-![Rotating Navigation Demo](assets/images/)
+![Rotating Navigation Demo](assets/images/RotatingNavigationDemo.gif)
 
 ## Licenses
 
